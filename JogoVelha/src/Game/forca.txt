@@ -1,0 +1,7 @@
+3
+Qual a capital do Brasil?
+Brasilia
+Quem foi o criador da linguagem C?
+Dennis Ritchie
+Qual o nome da menor unidade de informacao?
+Bit
